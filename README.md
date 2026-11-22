@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dev-portfolio.svg" width="100%" alt="Yesica Sanchez C. — Ingeniería Informática | Data Science &amp; Machine Learning"/>
+  <img src="./dev-portfolio.svg" width="100%" alt="Yesica Sanchez C. — Ingeniería Informática | Data Science &amp; Machine Learning"/>
 </p>
 
 ### ✦ SOBRE.MÍ
@@ -27,14 +27,11 @@ Soy **Yesica Sanchez C.**, Ingeniería Informática | Data Science & Machine Lea
 
 ### ✦ CONTACT.LINK
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maria--yesica--sanchez--calle-e03a4c?style=flat-square&logo=linkedin&logoColor=white&labelColor=140d17)](https://www.linkedin.com/in/maria-yesica-sanchez-calle-6b4bb0349)
 [![GitHub](https://img.shields.io/badge/GitHub-YesicaSc2-ff4d5e?style=flat-square&logo=github&logoColor=white&labelColor=140d17)](https://github.com/YesicaSc2)
-<!-- Agrega aquí tu LinkedIn y correo, por ejemplo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tu--usuario-c42f42?style=flat-square&logo=linkedin&logoColor=white&labelColor=140d17)](https://www.linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-tu%40correo.com-a3283a?style=flat-square&logo=gmail&logoColor=white&labelColor=140d17)](mailto:tu@correo.com)
--->
 
 <p align="center">
-  <a href="https://www.instagram.com/pyladiescbba/"><img src="./assets/workshop-pyladies.svg" width="100%" alt="Esto es parte del workshop de PyLadies Cochabamba"/></a>
+  <a href="https://www.instagram.com/pyladiescbba/"><img src="./workshop-pyladies.svg" width="100%" alt="Esto es parte del workshop de PyLadies Cochabamba"/></a>
 </p>
 
 <p align="center"><sub>✦ ✦ ✦ <br/>Diseñado con ♥ y un poco de vibecoding :3 ✨</sub></p>
